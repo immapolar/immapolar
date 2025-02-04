@@ -71,5 +71,6 @@ current_goals = {
 <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
 
 <div align="left">
-  <img src="flag.svg" width="100" alt="Palestine Flag"/>
+  <img src="flag1.svg" width="50" alt="Palestine Flag"/>
+  <img src="flag2.svg" width="50" alt="Brigades Flag"/>
 </div>
