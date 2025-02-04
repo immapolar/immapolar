@@ -69,3 +69,7 @@ current_goals = {
 </div>
 
 <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
+
+<div align="left">
+  <img src="flag.svg" width="100" alt="Palestine Flag"/>
+</div>
