@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+  <!-- Black stripe -->
+  <rect width="900" height="200" y="0" fill="#000000"/>
+  
+  <!-- White stripe -->
+  <rect width="900" height="200" y="200" fill="#FFFFFF"/>
+  
+  <!-- Green stripe -->
+  <rect width="900" height="200" y="400" fill="#009736"/>
+  
+  <!-- Red triangle -->
+  <path d="M 0,0 L 300,300 L 0,600 z" fill="#E4312B"/>
+</svg>
