@@ -22,7 +22,7 @@
 - I'm passionate about developing and programming
 - Specializing in Python tools, Discord bots and web applications
 - Currently diving deep into cybersecurity and ethical hacking
-- Always coding with purpose, one ASCII banner at a time!
+- Always coding with purpose, one ASCII at a time!
 
 ### Nifty Neural Nexus - NNN?!
 
