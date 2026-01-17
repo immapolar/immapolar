@@ -46,8 +46,8 @@ current_goals = {
 ### Contact
 
 <p align="left">
-  <a href="https://discord.com/users/pn_u">
-    <img src="https://img.shields.io/badge/Discord-@pn_u-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/odmj">
+    <img src="https://img.shields.io/badge/Discord-@odmj-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
     <a href="https://tiktok.com/@bam7">
     <img src="https://img.shields.io/badge/TikTok-@bam7-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
