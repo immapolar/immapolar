@@ -13,33 +13,32 @@
 
 </div>
 
-## 👋 Hey there, I'm Polaris!
+## Hey there, It's Polaris!
 
 <img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250" />
 
 ### About Me
 
-- I'm passionate about developing and programming
-- Specializing in Python tools, Discord bots and web applications
-- Currently diving deep into cybersecurity and ethical hacking
+- Passionate about development & exploration
+- Specializing in Python tools, Discord and web applications
+- Currently diving deep into cybersecurity, obfuscation, and cryptography
 - Always coding with purpose, one ASCII at a time!
 
 ### Nifty Neural Nexus - NNN?!
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </p>
 
 ### Current Focus
 
 ```python
 current_goals = {
-    "learning": ["Cyber Security", "Ethical Hacking", "Web Applications"],
-    "building": ["Advanced Discord Bots", "Python-based Naughty Tools", "Web Applications"],
-    "mastering": ["Node.js", "Discord.js", "ASCII Art 😉"]
+    "learning": ["cybersecurity", "cryptography", "obfuscation"],
+    "building": ["web applications", "Python naughty tools", "Lua code obfuscation"],
+    "mastering": ["ASCII art 😉"]
 }
 ```
 
